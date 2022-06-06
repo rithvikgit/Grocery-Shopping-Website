@@ -1,4 +1,4 @@
-# Grocery-Shooping-Website-
+# Grocery-Shopping-Website-
 
 A simple Grocery shooping website which allows you to search products , filter category and add to cart functionality also has a admin side to add prodcuts. Hosted on 000webhost App . 
 View here : https://abgr-shop.000webhostapp.com/index.html
